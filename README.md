@@ -12,3 +12,5 @@ make run     # Builds and launches FleviOS in QEMU
 
 > [!NOTE]
 > Not running? Try installing `make` and `qemu-system-i386` (or just `qemu`)
+
+Also, make sure you get the tools zip from the Releases, and extract it to `./tools/`.
